@@ -12,5 +12,3 @@ class Student:
 
 if __name__ == '__main__':
     s1 = Student("William", 12)
-    print(s1.get_name())
-    print(s1.get_age())
