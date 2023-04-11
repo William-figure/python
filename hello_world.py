@@ -12,3 +12,4 @@
 if __name__ == '__main__':
     s1 = Student("William", 12)
     s1.get_name();
+    s1.get_age();
